@@ -1,6 +1,7 @@
 // Debugging in C++ with Visual Studio Code
 // Exercise 04_03
 // Linker Errors, by Eduardo Corpeño
+//  Saturday, November 7, 2026
 
 #include <iostream>
 #include <string>
